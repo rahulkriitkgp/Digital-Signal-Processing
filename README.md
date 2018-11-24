@@ -1,1 +1,1 @@
-# EE41103_15IE33003_EnegyCompactionPropertiesofTransforms
+All assignments are part of Digital Signal Processing Course(EE41103)
